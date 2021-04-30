@@ -27,6 +27,7 @@ class SecondViewController: UIViewController, UITextFieldDelegate {
     var selectedTopic: String = ""
     var bottomLine = CALayer()
     
+    ///////asndiasjdasjdkasjdkasd
         
     override func viewDidLoad() {
         super.viewDidLoad()
