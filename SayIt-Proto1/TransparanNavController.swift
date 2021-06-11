@@ -2,8 +2,7 @@
 //  TransparanNavController.swift
 //  SayIt-Proto1
 //
-//  Created by Meiselina Sundari on 29/04/21.
-//
+
 
 import UIKit
 

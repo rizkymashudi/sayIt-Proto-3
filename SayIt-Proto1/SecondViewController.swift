@@ -2,8 +2,7 @@
 //  SecondViewController.swift
 //  SayIt-Proto1
 //
-//  Created by Ardyansyah Wijaya on 27/04/21.
-//
+
 
 import UIKit
 

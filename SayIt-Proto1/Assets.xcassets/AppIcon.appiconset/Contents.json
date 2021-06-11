@@ -31,11 +31,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "say it 120px.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "sayit 180px.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -51,11 +53,13 @@
       "size" : "20x20"
     },
     {
+      "filename" : "SATIY Copy.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "29x29"
     },
     {
+      "filename" : "sayit icon2.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
